@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScreenTransitionAnimationOverride
+  m_Controller: {fileID: 9100000, guid: 730ac13036a32704f95209077582b2ce, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 369e906659820a64e8c889163dc18779, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0b6efac243bdba742b8a86b60c7c6753, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2adda18b89a3b3b4cbd45dbd205914fe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7ced6d5639e8b914ab9d02b051b5e7ea, type: 2}

@@ -1,0 +1,6 @@
+﻿//0: No benchmark mode.  1: Benchmark activated
+0
+#Here put a value between 0 and 100 for percentage. If >100 we will look always for the highest score possible
+50
+//Fallingspeed overwrite property
+2 
